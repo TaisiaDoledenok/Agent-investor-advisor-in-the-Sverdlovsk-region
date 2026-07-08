@@ -8,7 +8,7 @@
 5. Создание и загрузка Skills
 6. Тестирование навыков агента и доработка текста skills.
 
-См. также constitution.md и SETUP.md.
+См. также constitution.md, SETUP.md и видео-демонстрацию бота: https://disk.360.yandex.ru/i/sshJx9RSB5fc-g.
 
 ## 1. Спецификация агента
 
